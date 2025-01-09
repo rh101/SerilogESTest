@@ -5,3 +5,5 @@
 /.vs
 /obj
 /SerilogESTest/obj
+/bin/Debug
+/SerilogESTest/bin/Debug/net9.0
